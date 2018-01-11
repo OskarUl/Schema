@@ -1,0 +1,60 @@
+<resources>
+    <string name="app_name">Schema</string>
+    <string name="klass">Klass</string>
+    <string name="week">Week</string>
+
+    <string-array name="weeks">
+        <item>v.1</item>
+        <item>v.2</item>
+        <item>v.3</item>
+        <item>v.4</item>
+        <item>v.5</item>
+        <item>v.6</item>
+        <item>v.7</item>
+        <item>v.8</item>
+        <item>v.9</item>
+        <item>v.10</item>
+        <item>v.11</item>
+        <item>v.12</item>
+        <item>v.13</item>
+        <item>v.14</item>
+        <item>v.15</item>
+        <item>v.16</item>
+        <item>v.17</item>
+        <item>v.18</item>
+        <item>v.19</item>
+        <item>v.20</item>
+        <item>v.21</item>
+        <item>v.22</item>
+        <item>v.23</item>
+        <item>v.24</item>
+        <item>v.25</item>
+        <item>v.26</item>
+        <item>v.27</item>
+        <item>v.28</item>
+        <item>v.29</item>
+        <item>v.30</item>
+        <item>v.31</item>
+        <item>v.32</item>
+        <item>v.33</item>
+        <item>v.34</item>
+        <item>v.35</item>
+        <item>v.36</item>
+        <item>v.37</item>
+        <item>v.38</item>
+        <item>v.39</item>
+        <item>v.40</item>
+        <item>v.41</item>
+        <item>v.42</item>
+        <item>v.43</item>
+        <item>v.44</item>
+        <item>v.45</item>
+        <item>v.46</item>
+        <item>v.47</item>
+        <item>v.48</item>
+        <item>v.49</item>
+        <item>v.50</item>
+        <item>v.51</item>
+        <item>v.52</item>
+    </string-array>
+</resources>
